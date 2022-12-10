@@ -13,7 +13,7 @@ const Footer = () => {
                <strong>Book-IT</strong>              
             </h6>
             <p>
-            Book-IT is an online React web application where the customer can purchase books online.
+             Book-IT is an online React web application where the customer can purchase books online.
              Through this book store the users can search for a book by its title and
              later can add to the shopping cart and finally purchase using credit card transaction.
             </p>
@@ -22,7 +22,7 @@ const Footer = () => {
           <MDBCol md="2" lg="2" xl="2" className="mx-auto mt-3">
             <h6 className="text-uppercase mb-4 font-weight-bold"><strong>Products</strong></h6>
             <p>
-              <a href="#">Book-IT</a>
+              <a href=" ">Book-IT</a>
             </p>
             <p>
               <a href="  ">Portfolio</a>
@@ -51,7 +51,7 @@ const Footer = () => {
           <MDBCol md="8" lg="8">
             <p className="text-center text-md-left grey-text">
               &copy; {new Date().getFullYear()} Made by
-              <a href=""> Manav || Nandini </a>
+              <a href=" "> Manav || Nandini </a>
             </p>
           </MDBCol>
           <MDBCol md="4" lg="4" className="ml-lg-0">
