@@ -82,7 +82,6 @@ const Products = ({ products, onAddToCart }) => {
 
       <Grid className={classes.content} container justify="center" spacing={5}>
         {products
-          // eslint-disable-next-line array-callback-return
           .filter((product) => {
             if (searchTerm === "") {
               return product;
